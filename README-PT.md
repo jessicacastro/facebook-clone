@@ -1,4 +1,3 @@
-
 <table align="center" style="border: 0 !important" border="0">
   <tr>
     <td align="center" width="9999">
@@ -17,38 +16,36 @@
 </td></tr></table>
 
 
-### Application Screen :desktop_computer:
+### Tela da aplicação :desktop_computer:
 ![](src/assets/facebook_clone.png)
 
 
-### Installation :computer_mouse:
-Download the repository to a local folder of your choice and run the command:
+### Instalação :computer_mouse:
+Baixe o repositório para uma pasta local:
 ```
 git clone https://github.com/jessicacastro/facebook-clone.git
 ```
-Navigate to the 'facebook-clone' folder, open yout terminal and run the command:
+Navegue até a pasta 'facebook-clone', abra seu terminal e digite:
 ```
 yarn
 ```
 
-### Run the application :gear:
-
-At the terminal, run the following command:
+### Rodando a aplicação :gear:
+No terminal, rode:
 ```
 yarn dev
 ```
+Após o comando, basta abrir sua aplicação no seu [localhost](http://localhost:8080)
 
-After the command has run, just open your application on your [localhost](http://localhost:8080)
-
-### Contacts :email:
+### Contatos :email:
 Linkedin - [@jessicacastros](https://www.linkedin.com/in/jessicacastros/)<br />
 Github - [@jessicacastro](https://www.github.com/jessicacastro/)<br/>
 Instagram - [@poxajessica](https://www.instagram.com/poxajessica) <br />
 Twitter - [let name = Jessica](https://www.twitter.com/sapatilheira/)
 
-### Licence :bulb:
+### Licença :bulb:
 [MIT](https://github.com/jessicacastro/facebook-clone/blob/master/LICENSE)
 
 <hr />
 
-Made with :blue_heart: by [Jessica Castro](https://www.github.com/jessicacastro/) :woman_technologist:<br/>
+Feito com :blue_heart: por [Jessica Castro](https://www.github.com/jessicacastro/) :woman_technologist:<br/>
