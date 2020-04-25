@@ -1,0 +1,26 @@
+.content-comment {
+  list-style-type: none;
+  display: flex;
+}
+
+.content-comment img {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.content-comment .comment {
+  background: #EEE;
+  padding: 10px 15px;
+  border-radius: 8px;
+  font-style: normal;
+  color: #3E3E3E;
+  font-size: 13px;
+  margin-bottom: 10px;
+}
+
+.content-comment .comment strong {
+  font-weight: bold;
+  line-height: 20px;
+}
