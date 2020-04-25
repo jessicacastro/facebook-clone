@@ -30,11 +30,12 @@ Navegue até a pasta 'facebook-clone', abra seu terminal e digite:
 yarn
 ```
 
-### Rodando a aplicação :bulb:
+### Rodando a aplicação :gear:
 No terminal, rode:
 ```
 yarn dev
 ```
+Após o comando, basta abrir sua aplicação no seu [localhost](http://localhost:8080)
 
 ### Contatos :email:
 Linkedin - [@jessicacastros](https://www.linkedin.com/in/jessicacastros/)<br />
@@ -42,7 +43,7 @@ Github - [@jessicacastro](https://www.github.com/jessicacastro/)<br/>
 Instagram - [@poxajessica](https://www.instagram.com/poxajessica) <br />
 Twitter - [let name = Jessica](https://www.twitter.com/sapatilheira/)
 
-### Licença
+### Licença :bulb:
 [MIT](https://github.com/jessicacastro/facebook-clone/blob/master/LICENSE)
 
 <hr />
