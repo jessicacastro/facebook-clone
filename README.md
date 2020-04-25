@@ -3,7 +3,7 @@
     <td align="center" width="9999">
       <img src="https://abrilveja.files.wordpress.com/2019/11/facebook-branding-gif.gif" align="center" width="300" alt="Project icon">
 
-## Facebook Clone
+### Facebook Clone
 <p>
   <img src="https://img.shields.io/badge/made%20by-Jessica%20Castro-blue?style=plastic">
   <img src="https://img.shields.io/github/license/jessicacastro/facebook-clone?color=blue&style=plastic"> 
