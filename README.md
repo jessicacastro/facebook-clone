@@ -12,16 +12,15 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jessicacastro/facebook-clone?style=plastic">
 </p>
 
-<p>
-Clone do Facebook criado totalmente com React JS e CSS Flex, com o objetivo de fixação de aprendizado.</p>
+<p></p>
 </td></tr></table>
 
 
-## Tela da aplicação :desktop_computer:
+### Tela da aplicação :desktop_computer:
 ![](src/assets/facebook_clone.png)
 
 
-## Instalação :computer_mouse:
+### Instalação :computer_mouse:
 Baixe o repositório para uma pasta local:
 ```
 git clone https://github.com/jessicacastro/facebook-clone.git
@@ -31,19 +30,19 @@ Navegue até a pasta 'facebook-clone', abra seu terminal e digite:
 yarn
 ```
 
-## Rodando a aplicação :bulb:
+### Rodando a aplicação :bulb:
 No terminal, rode:
 ```
 yarn dev
 ```
 
-## Contatos :email:
+### Contatos :email:
 Linkedin - [@jessicacastros](https://www.linkedin.com/in/jessicacastros/)<br />
 Github - [@jessicacastro](https://www.github.com/jessicacastro/)<br/>
 Instagram - [@poxajessica](https://www.instagram.com/poxajessica) <br />
 Twitter - [let name = Jessica](https://www.twitter.com/sapatilheira/)
 
-## Licença
+### Licença
 [MIT](https://github.com/jessicacastro/facebook-clone/blob/master/LICENSE)
 
 <hr />
