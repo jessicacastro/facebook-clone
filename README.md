@@ -5,7 +5,7 @@
 
 ### Facebook Clone
 <p>
-  <img src="https://img.shields.io/badge/made%20by-Jessica%20Castro-blue?style=plastic">
+  <img src="https://img.shields.io/badge/Author-Jessica%20Castro-blue?style=plastic">
   <img src="https://img.shields.io/github/license/jessicacastro/facebook-clone?color=blue&style=plastic"> 
   <img src="https://img.shields.io/github/stars/jessicacastro/facebook-clone?color=blue&style=plastic"> 
   <img src="https://img.shields.io/github/forks/jessicacastro/facebook-clone?color=blue&style=plastic"> 
