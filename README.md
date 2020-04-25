@@ -30,6 +30,7 @@ Navigate to the 'facebook-clone' folder, open yout terminal and run the command:
 ```
 yarn
 ```
+This command will install the project's dependencies for it to run.
 
 ### Run the application :gear:
 

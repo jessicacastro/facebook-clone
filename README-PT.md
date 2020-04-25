@@ -21,17 +21,18 @@
 
 
 ### Instalação :computer_mouse:
-Baixe o repositório para uma pasta local:
+Baixe o repositório para uma pasta local de sua preferência e rode o comando:
 ```
 git clone https://github.com/jessicacastro/facebook-clone.git
 ```
-Navegue até a pasta 'facebook-clone', abra seu terminal e digite:
+Navegue até a pasta 'facebook-clone', abra seu terminal e rode o comando:
 ```
 yarn
 ```
+Esse comando irá instalar as dependências do projeto para que ele rode.
 
 ### Rodando a aplicação :gear:
-No terminal, rode:
+No terminal, rode o comando:
 ```
 yarn dev
 ```
